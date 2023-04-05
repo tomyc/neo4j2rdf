@@ -1,0 +1,948 @@
+@prefix ns1: <can+check+> .
+@prefix ns10: <is+> .
+@prefix ns100: <sure+> .
+@prefix ns101: <are+expensive+> .
+@prefix ns102: <goes+down+so+> .
+@prefix ns103: <reputation+> .
+@prefix ns104: <have+Nivomat+self+leveling+shocks+> .
+@prefix ns105: <head+> .
+@prefix ns106: <Inspect+aluminum+pipe+> .
+@prefix ns107: <would+also+> .
+@prefix ns108: <Go+> .
+@prefix ns109: <goes+so+> .
+@prefix ns11: <goes+> .
+@prefix ns12: <original+would+> .
+@prefix ns13: <used+> .
+@prefix ns14: <smells+> .
+@prefix ns15: <will+no+doubt+have+Volvos+> .
+@prefix ns16: <could+> .
+@prefix ns17: <Inspect+aluminum+> .
+@prefix ns18: <may+wind+up+> .
+@prefix ns19: <so+may+vary+> .
+@prefix ns2: <is+later+version+> .
+@prefix ns20: <VIN+> .
+@prefix ns21: <will+have+Volvos+> .
+@prefix ns22: <will+likely+> .
+@prefix ns23: <better+> .
+@prefix ns24: <%27ve+> .
+@prefix ns25: <%27ve+got+> .
+@prefix ns26: <get+> .
+@prefix ns27: <will+> .
+@prefix ns28: <can+scrapes+> .
+@prefix ns29: <%27s+> .
+@prefix ns3: <improved+brakes+> .
+@prefix ns30: <usually+suffer+> .
+@prefix ns31: <use+oil+> .
+@prefix ns32: <find+> .
+@prefix ns33: <%27d+> .
+@prefix ns34: <would+> .
+@prefix ns35: <should+> .
+@prefix ns36: <are+specific+> .
+@prefix ns37: <smells+etc.+> .
+@prefix ns38: <will+no+doubt+> .
+@prefix ns39: <gets+primed+> .
+@prefix ns4: <is+later+revised+version+> .
+@prefix ns40: <are+> .
+@prefix ns41: <can+> .
+@prefix ns42: <often+> .
+@prefix ns43: <may+vary+> .
+@prefix ns44: <would+replace+idlers+> .
+@prefix ns45: <look+> .
+@prefix ns46: <Generally+can+> .
+@prefix ns47: <will+also+> .
+@prefix ns48: <also+> .
+@prefix ns49: <suffer+> .
+@prefix ns5: <examine+connectors+> .
+@prefix ns50: <have+heard+> .
+@prefix ns51: <should+see+notes+> .
+@prefix ns52: <was+part+> .
+@prefix ns53: <functioning+> .
+@prefix ns54: <are+abundance+> .
+@prefix ns55: <have+> .
+@prefix ns56: <is+same+> .
+@prefix ns57: <please+take+> .
+@prefix ns58: <paying+> .
+@prefix ns59: <is+installed+> .
+@prefix ns6: <embrittle+> .
+@prefix ns60: <utilizing+service+> .
+@prefix ns61: <evenly+> .
+@prefix ns62: <is+one+> .
+@prefix ns63: <account+> .
+@prefix ns64: <is+revised+version+> .
+@prefix ns65: <goes+down+> .
+@prefix ns66: <search+> .
+@prefix ns67: <came+> .
+@prefix ns68: <are+inherently+weaker+> .
+@prefix ns69: <will+doubt+> .
+@prefix ns7: <Buying+GLE+> .
+@prefix ns70: <be+discontinued+> .
+@prefix ns71: <in+system+> .
+@prefix ns72: <use+> .
+@prefix ns73: <has+come+up+> .
+@prefix ns74: <is+uniform+> .
+@prefix ns75: <access+> .
+@prefix ns76: <are+weaker+> .
+@prefix ns77: <fall+> .
+@prefix ns78: <will+bend+> .
+@prefix ns79: <system+> .
+@prefix ns8: <may+> .
+@prefix ns80: <is+version+> .
+@prefix ns81: <will+doubt+have+Volvos+> .
+@prefix ns82: <suspension+> .
+@prefix ns83: <fouls+throttle+> .
+@prefix ns84: <are+very+expensive+> .
+@prefix ns85: <met+cabdriver+> .
+@prefix ns86: <has+> .
+@prefix ns87: <be+found+> .
+@prefix ns88: <might+suit+> .
+@prefix ns89: <competes+AutoCheck+Odometer+Change+> .
+@prefix ns9: <would+also+replace+idlers+> .
+@prefix ns90: <Buying+Used+GLE+> .
+@prefix ns91: <be+> .
+@prefix ns92: <Does+> .
+@prefix ns93: <might+> .
+@prefix ns94: <%27ve+got+work+> .
+@prefix ns95: <be+obtained+> .
+@prefix ns96: <actually+> .
+@prefix ns97: <will+also+likely+> .
+@prefix ns98: <Look+> .
+@prefix ns99: <doing+work+history+research+> .
+
+<%2795> <be> <good> .
+
+<1982-1986%C2%A0760+GLE> <uses> <engine> .
+
+<1996+new+electric+system+Motronic+1.8+ignition+system> ns79:in <1996> .
+
+<2+front+air+bags> ns82:with <spring> .
+
+<760+GLE+models> <be> <found> ;
+    ns87:as <real+value>,
+        <value> ;
+    <have> <low+resale+value>,
+        <resale+value> ;
+    ns42:have <low+resale+value>,
+        <resale+value> .
+
+<87> <have> <engine+mounts>,
+        <hydraulic+engine+mounts> .
+
+<91+93+turbos> <have> <auto+locking+diff> .
+
+<Anyone> ns35:see <detailed+notes>,
+        <more+detailed+notes>,
+        <notes> ;
+    ns51:at <Diesel>,
+        <Purchasing>,
+        <Used+Diesel> .
+
+<Auto+Climate+Control> <does> <everything+right> ;
+    ns100:does <everything+right> .
+
+<Both> ns35:look <same> .
+
+<Caution> <See> <960%2F90+section>,
+        <960%2F90+section+about+sticking+valves>,
+        <960%2F90+section+about+valves> .
+
+<Don+Foster> <Inspect> <aluminum+pipe> ;
+    ns17:pipe <if+manua>,
+        <manua> .
+
+<Editor> <has> <Note>,
+        <Notes> .
+
+<FAQ+functional+sections> <Buying> <GLE>,
+        <Used+GLE> ;
+    ns7:with <B234F> ;
+    ns90:with <B234F> .
+
+<FAQ+section> ns10:in <Preventive+Maintenance> .
+
+<FAQ+sections> <Buying> <GLE>,
+        <Used+GLE> ;
+    ns7:with <B234F> ;
+    ns90:with <B234F> .
+
+<GM> <of> <model> .
+
+<Higher+mileage+engines> ns27:see <front> .
+
+<Hoses> ns6:in <higher+temperatures>,
+        <higher+temperatures+created>,
+        <higher+temperatures+created+by+turbo>,
+        <higher+underhood+temperatures>,
+        <higher+underhood+temperatures+created>,
+        <higher+underhood+temperatures+created+by+turbo>,
+        <temperatures>,
+        <temperatures+created>,
+        <temperatures+created+by+turbo>,
+        <underhood+temperatures>,
+        <underhood+temperatures+created>,
+        <underhood+temperatures+created+by+turbo> .
+
+<I> ns33:check <maintenance+book> ;
+    <bought> <my+960+1996> ;
+    <buying> <it> ;
+    ns41:tell <you> ;
+    <examine> <connectors>,
+        <female+connectors> ;
+    ns5:at <each+of+six+coils>,
+        <each+six+coils> ;
+    <found> <1+-800-FIND-VIN>,
+        <Carfax> ;
+    <give> <it>,
+        <two+ratchets>,
+        <two+ratchets+up> ;
+    <met> <cabdriver> ;
+    ns85:in <part>,
+        <part+of+Sweden>,
+        <southern+part>,
+        <southern+part+of+Sweden> ;
+    ns12:replace <them> ;
+    ns57:off <plastic+cover>,
+        <plastic+cover+atop+engine> ;
+    ns72:oil <many+reasons>,
+        <reasons> ;
+    ns31:of <many+reasons>,
+        <reasons> ;
+    ns60:at_time <Friday>,
+        <last+Friday> ;
+    ns107:replace <idlers> ;
+    ns9:at <all+less+than+perfect>,
+        <if+all+less+than+perfect>,
+        <if+less+than+perfect>,
+        <less+than+perfect> ;
+    ns34:replace <belts>,
+        <idlers>,
+        <them> ;
+    ns44:at <all+less+than+perfect>,
+        <if+all+less+than+perfect>,
+        <if+less+than+perfect>,
+        <less+than+perfect> .
+
+<Insurance> ns8:depend <installed+by+approved+installer>,
+        <installed+by+installer>,
+        <on+installed+by+approved+installer>,
+        <on+installed+by+installer>,
+        <on+whether+installed+by+approved+installer>,
+        <on+whether+installed+by+installer>,
+        <whether+installed+by+approved+installer>,
+        <whether+installed+by+installer> .
+
+<It> ns91:good <replace> ;
+    <has> <good> ;
+    <is> <engine>,
+        <same+engine> ;
+    <match> <outside+paint>,
+        <paint> ;
+    <should> ns35:smooth .
+
+<Its+gear+ratios> <are> <revised> ;
+    ns23:suit <16+valve+engines>,
+        <lower+torque+production>,
+        <lower+torque+production+at+lower+revs>,
+        <lower+torque+production+at+revs>,
+        <torque+production>,
+        <torque+production+at+lower+revs>,
+        <torque+production+at+revs> ;
+    <suit> <16+valve+engines>,
+        <lower+torque+production>,
+        <lower+torque+production+at+lower+revs>,
+        <lower+torque+production+at+revs>,
+        <torque+production>,
+        <torque+production+at+lower+revs>,
+        <torque+production+at+revs> .
+
+<Ivor+Guyett+MPG> <expect> <fuel+economy>,
+        <fuel+economy+than+on+petrol>,
+        <worse+fuel+economy>,
+        <worse+fuel+economy+than+on+petrol> ;
+    ns11:by <20+%25> ;
+    ns65:by <20+%25> ;
+    ns102:by <20+%25> ;
+    ns109:by <20+%25> .
+
+<Jason> <has> <correct+mention+of+valves> .
+
+<Jason+%27s+correct+mention> <hit> <interference>,
+        <pistons> .
+
+<Jason+%27s+mention> <hit> <interference>,
+        <pistons> .
+
+<LH+2.2+fuel+system> <is> <reliable> .
+
+<LH+fuel+system> <is> <reliable> .
+
+<Loctite> <is> <good>,
+        <good+idea>,
+        <idea> .
+
+<Maintenance+records> ns42:state <mileage> ;
+    <state> <mileage> .
+
+<Major+Caution> <See> <960%2F90+section>,
+        <960%2F90+section+about+sticking+valves>,
+        <960%2F90+section+about+valves> .
+
+<New+calipers> <accomodate> <rotors>,
+        <wider+rotors> .
+
+<One> ns73:for <sale>,
+        <sale+in+my+area> .
+
+<Overdrive+engagement> ns10:in <transmission> .
+
+<Problems> ns10:with <960> .
+
+<Response> ns98:at <paint> ;
+    <Regarding> <Volvo+960> ;
+    <is> <closed> ;
+    ns10:on <Volvo+network>,
+        <closed+Volvo+network> ;
+    ns62:with <tendencies>,
+        <tendencies+for+cam+failure>,
+        <tendencies+for+premature+cam+failure> .
+
+<Response+Zippy> ns108:for <740+turbo> .
+
+<S+V70> ns10:with <only+one+fewer+cylinders> .
+
+<S90> <be> <discontinued> ;
+    ns70:after <model+year> ;
+    <is> <same> ;
+    ns56:as <960> .
+
+<Their+prejudice> ns27:get <great+value>,
+        <value>,
+        <you> .
+
+<They> <require> <maintenance>,
+        <regular+maintenance> ;
+    ns66:in <US> ;
+    ns66:through <DMV> .
+
+<Tip> ns57:off <plastic+cover>,
+        <plastic+cover+atop+engine> .
+
+<Volvo> <gets> <%24+1100+USD>,
+        <over+%24+1100+USD> ;
+    <imported> <1991+940SE> ;
+    <improved> <brakes> ;
+    ns3:by <front+rotor+diameter>,
+        <front+rotor+diameter+from+11.3+inches>,
+        <front+rotor+diameter+from+11.3+inches+to+11+inches>,
+        <front+rotor+diameter+to+11+inches>,
+        <reducing+front+rotor+diameter>,
+        <reducing+front+rotor+diameter+from+11.3+inches>,
+        <reducing+front+rotor+diameter+from+11.3+inches+to+11+inches>,
+        <reducing+front+rotor+diameter+to+11+inches>,
+        <reducing+rotor+diameter>,
+        <reducing+rotor+diameter+from+11.3+inches>,
+        <reducing+rotor+diameter+from+11.3+inches+to+11+inches>,
+        <reducing+rotor+diameter+to+11+inches>,
+        <rotor+diameter>,
+        <rotor+diameter+from+11.3+inches>,
+        <rotor+diameter+from+11.3+inches+to+11+inches>,
+        <rotor+diameter+to+11+inches> ;
+    ns3:in <1992> .
+
+<Volvo+6+cylinder+engine+3%2C0+liters> <is> <built>,
+        <extremely+well+built>,
+        <well+built> .
+
+<Volvo+V6> <is> <trouble> .
+
+<Volvo+cylinder+engine+3%2C0+liters> <is> <built>,
+        <extremely+well+built>,
+        <well+built> .
+
+<YOU> <FIND> <items>,
+        <such+items> .
+
+<You> ns1:in <nooks>,
+        <other+nooks> ;
+    ns47:find <crumbling+wire+sleeves>,
+        <wire+sleeves> ;
+    ns97:find <crumbling+wire+sleeves>,
+        <wire+sleeves> ;
+    ns27:find <crumbling+wire+sleeves>,
+        <wire+sleeves> ;
+    ns22:find <crumbling+wire+sleeves>,
+        <wire+sleeves> .
+
+<ZF+gearbox> ns10:with <bad+history> .
+
+<affected+panel> <is> <replaced> .
+
+<air+conditioning+units> ns41:have <reputation>,
+        <reputation+for+reliability>,
+        <reputation+for+spotty+reliability> ;
+    ns10:in <cars> ;
+    ns103:for <reliability>,
+        <spotty+reliability> .
+
+<air+valve> ns63:for <10+%25>,
+        <other+10+%25> ;
+    <seems> <account>,
+        <account+for+10+%25>,
+        <account+for+other+10+%25>,
+        <to+account>,
+        <to+account+for+10+%25>,
+        <to+account+for+other+10+%25> .
+
+<anybody+scare> ns10:with <stories> .
+
+<area> <gets> <primed> ;
+    ns39:at <same+time>,
+        <time> .
+
+<bigger+radiator> ns10:with <electric+cooling+fans> .
+
+<biggest+concern> <are> <abundance> ;
+    ns54:of <luxury+equipment> .
+
+<block> <is> <same> ;
+    ns56:as <B230> .
+
+<bolt> ns95:at <parts+store> ;
+    <is> <weak> .
+
+<calipers> <accomodate> <rotors>,
+        <wider+rotors> .
+
+<cases> <have> ns55:caused,
+        <have+caused+by>,
+        <have+usually+caused>,
+        <have+usually+caused+by> .
+
+<change> <reduce> <warpage>,
+        <warpage+of+rotors> ;
+    <was> <intended> .
+
+<concern> <are> <abundance> ;
+    ns54:of <luxury+equipment> .
+
+<concerns> ns50:regarding <engine> .
+
+<concerns+I+have+heard> <are> <INTERFERENCE+design> .
+
+<concerns+have+heard> <are> <INTERFERENCE+design> .
+
+<diameter+mains> <thrust> <bearing> .
+
+<done> <is> <closed> .
+
+<engines> <are> <good>,
+        <very+good> .
+
+<everything> <is> <same> .
+
+<everything+mechanical> <is> <same> .
+
+<exhaust+gaskets> <are> <easy> .
+
+<factory+paint> <is> <smooth>,
+        <usually+smooth>,
+        <usually+very+smooth>,
+        <very+smooth> .
+
+<fire+fuel+injected+version> ns13:from <1976> ;
+    ns13:through <1986> .
+
+<fire+fuel+version> ns13:from <1976> ;
+    ns13:through <1986> .
+
+<fire+mechanical+fuel+injected+version> ns13:from <1976> ;
+    ns13:through <1986> .
+
+<fire+mechanical+fuel+version> ns13:from <1976> ;
+    ns13:through <1986> .
+
+<fit> ns61:spaced <side>,
+        <side+to+side> ;
+    <is> <correct>,
+        <correct+straight> ;
+    <spaced> <side>,
+        <side+to+side> .
+
+<flooded+cars> ns69:have <Volvos> ;
+    ns81:in <mix> ;
+    ns27:have <Volvos> ;
+    ns21:in <mix> ;
+    ns38:have <Volvos> ;
+    ns15:in <mix> .
+
+<floods> ns10:in <North+Carolina> .
+
+<front+timing+cover+gaskets> <fail> <allowing> .
+
+<functioning> <are> <around+lock+buttons+expensive>,
+        <around+lock+buttons+very+expensive>,
+        <expensive>,
+        <very+expensive> ;
+    ns101:around <lock+buttons> ;
+    ns84:around <lock+buttons> ;
+    ns53:of <transmission+shift+lock+switch> .
+
+<garbage> ns28:down <paint+chips>,
+        <paint+chips+in+nose>,
+        <side> .
+
+<gloss> <is> <same> ;
+    ns56:from <panel>,
+        <panel+to+panel> .
+
+<gunky+air+valve> ns63:for <10+%25>,
+        <other+10+%25> ;
+    <seems> <account>,
+        <account+for+10+%25>,
+        <account+for+other+10+%25>,
+        <to+account>,
+        <to+account+for+10+%25>,
+        <to+account+for+other+10+%25> .
+
+<gunky+idle+air+valve> ns63:for <10+%25>,
+        <other+10+%25> ;
+    <seems> <account>,
+        <account+for+10+%25>,
+        <account+for+other+10+%25>,
+        <to+account>,
+        <to+account+for+10+%25>,
+        <to+account+for+other+10+%25> .
+
+<head> <are> <INTERFERENCE+design> ;
+    <rebuilt> <about+every+100%2C000+miles> .
+
+<head+head+manifolds> <are> <different> .
+
+<heads> <have> <oil+troughs>,
+        <oil+troughs+through+which> .
+
+<idle+air+valve> ns63:for <10+%25>,
+        <other+10+%25> ;
+    <seems> <account>,
+        <account+for+10+%25>,
+        <account+for+other+10+%25>,
+        <to+account>,
+        <to+account+for+10+%25>,
+        <to+account+for+other+10+%25> .
+
+<individual+FAQ+functional+sections> <Buying> <GLE>,
+        <Used+GLE> ;
+    ns7:with <B234F> ;
+    ns90:with <B234F> .
+
+<individual+FAQ+sections> <Buying> <GLE>,
+        <Used+GLE> ;
+    ns7:with <B234F> ;
+    ns90:with <B234F> .
+
+<intake> ns105:with <O+rings> ;
+    <is> <dry> .
+
+<kit> <is> <on+installed+by+approved+installer>,
+        <on+installed+by+installer>,
+        <on+whether+installed+by+approved+installer>,
+        <on+whether+installed+by+installer>,
+        <whether+installed+by+approved+installer>,
+        <whether+installed+by+installer> ;
+    ns59:by <approved+installer>,
+        <installer> .
+
+<larger+diameter+mains> ns10:with <full+circle> ;
+    <thrust> <bearing> .
+
+<many+titles> <are> <fraudulent> ;
+    ns40:fraudulent <While+supposed>,
+        <supposed> .
+
+<mileage+engines> ns27:see <front> .
+
+<mirror> ns45:for <debris>,
+        <flood+left+debris>,
+        <left+debris> ;
+    ns45:inside <door+panels>,
+        <door+panels+under+instrument+panel>,
+        <door+panels+under+instrument+panel+etc.>,
+        <door+panels+up+under+instrument+panel>,
+        <door+panels+up+under+instrument+panel+etc.> ;
+    ns45:on <top>,
+        <top+of+fuel+tank> .
+
+<misfires> <kill> <AMM> .
+
+<motor> ns48:uses <aluminum+rad>,
+        <capped+aluminum+rad> ;
+    <fouls> <throttle+bodies> ;
+    ns83:bodies <B230s+do>,
+        <just+B230s+do>,
+        <just+like+B230s+do>,
+        <like+B230s+do> ;
+    <is> <nother+story>,
+        <whole>,
+        <whole+nother+story> ;
+    <uses> <aluminum+rad>,
+        <capped+aluminum+rad> .
+
+<motors> ns75:than <any>,
+        <any+of+late+model+GM+%27s>,
+        <any+of+model+GM+%27s> ;
+    <are> <easier> .
+
+<new+engine+control+system> ns10:in <1996> .
+
+<new+service> <competes> <AutoCheck+Odometer+Change> ;
+    ns89:with <Carfax> .
+
+<newer> <be> <good> ;
+    <should> ns35:choice,
+        <should+good+choice> .
+
+<occasional+misfires> <kill> <AMM> .
+
+<odd+fire+fuel+injected+version> ns13:from <1976> ;
+    ns13:through <1986> .
+
+<odd+fire+fuel+version> ns13:from <1976> ;
+    ns13:through <1986> .
+
+<odd+fire+mechanical+fuel+injected+version> ns13:from <1976> ;
+    ns13:through <1986> .
+
+<odd+fire+mechanical+fuel+version> ns13:from <1976> ;
+    ns13:through <1986> .
+
+<odometer> ns10:in <car> .
+
+<oil+pump+bolt> <is> <point>,
+        <weak+point> .
+
+<panels> <have> ns55:replaced,
+        <if+have+replaced> .
+
+<person> <doing> <work+history+research> ;
+    ns99:In <this> .
+
+<plastic> ns77:into <belt+cogs> ;
+    <gets> <brittle> ;
+    <jamming> <it> .
+
+<power> ns32:out <if+it+%27s+working>,
+        <if+it+%27s+working+properly>,
+        <it+%27s+working>,
+        <it+%27s+working+properly> .
+
+<price> <is> <If+good>,
+        <If+too+good>,
+        <good>,
+        <too+good> .
+
+<quarter+panel> <is> <When+replaced>,
+        <replaced> .
+
+<removing+tobacco> ns14:For <tips>,
+        <tips+on+maintenance>,
+        <tips+on+necessary+maintenance> ;
+    ns37:For <tips>,
+        <tips+on+maintenance>,
+        <tips+on+necessary+maintenance> ;
+    ns37:for <car>,
+        ns13:car ;
+    ns14:for <car>,
+        ns13:car .
+
+<result> ns10:in <cars+entering> .
+
+<rust> ns10:in <tailgate> .
+
+<rust+bins> <Inspect> <aluminum+pipe> ;
+    ns17:pipe <if+manua>,
+        <manua> ;
+    ns106:in <C+line> ;
+    ns10:in <trunk> .
+
+<sedan> <has> <multi-link+rear+suspension>,
+        <multi-link+suspension>,
+        <rear+suspension>,
+        <suspension> .
+
+<service> <competes> <AutoCheck+Odometer+Change> ;
+    ns89:with <Carfax> .
+
+<shake> ns10:in <at+all+wheel> .
+
+<short+cam+life> ns10:in <as+earlier+pre-87+motors> .
+
+<sips+structures> <adds> <body+rigidity> ;
+    ns10:in <92> .
+
+<some> ns18:for <sale> .
+
+<something> ns93:suit <you> ;
+    ns88:better <you> .
+
+<something+else> ns93:suit <you> ;
+    ns88:better <you> .
+
+<speedometer+odometer> <been> <changed> .
+
+<structures> <adds> <body+rigidity> .
+
+<tensioner> ns41:lose <its+plastic+teeth> .
+
+<they> <%27re> <250+%24+450+USD+each>,
+        <replace>,
+        <to+replace> ;
+    <are> <B280F>,
+        <as+inherently+weaker>,
+        <as+inherently+weaker+than+physical+valve+lifters>,
+        <as+inherently+weaker+than+valve+lifters>,
+        <as+weaker>,
+        <as+weaker+than+physical+valve+lifters>,
+        <as+weaker+than+valve+lifters>,
+        <if+B280F>,
+        <inherently+weaker>,
+        <weaker> ;
+    ns68:than <physical+valve+lifters>,
+        <valve+lifters> ;
+    ns76:than <physical+valve+lifters>,
+        <valve+lifters> ;
+    <look> <suspect> .
+
+<things> <are> <specific> ;
+    ns36:to <local+markets>,
+        <markets> ;
+    <start> <break>,
+        <to+break> .
+
+<timing+belt> <been> <changed> ;
+    <is> <documented> .
+
+<timing+chains> <have> <lifespan>,
+        <lifespan+of+over+250K+miles> .
+
+<timing+cover+gaskets> <fail> <allowing> .
+
+<title> <is> <While+supposed>,
+        <supposed> ;
+    ns10:supposed <state>,
+        <to+state> .
+
+<titles> <are> <fraudulent> ;
+    ns40:fraudulent <While+supposed>,
+        <supposed> .
+
+<tobacco> ns14:For <tips>,
+        <tips+on+maintenance>,
+        <tips+on+necessary+maintenance> ;
+    ns37:For <tips>,
+        <tips+on+maintenance>,
+        <tips+on+necessary+maintenance> ;
+    ns37:for <car>,
+        ns13:car ;
+    ns14:for <car>,
+        ns13:car .
+
+<two+concerns> ns50:regarding <engine> .
+
+<two+concerns+I+have+heard> <are> <INTERFERENCE+design> .
+
+<two+concerns+have+heard> <are> <INTERFERENCE+design> .
+
+<up> <have> <engine+mounts>,
+        <hydraulic+engine+mounts> .
+
+<v6> <is> <later+revised+version>,
+        <later+version>,
+        <revised+version>,
+        <version> ;
+    ns4:with <LH+electronic+fuel+injection>,
+        <LH+fuel+injection> ;
+    ns2:with <LH+electronic+fuel+injection>,
+        <LH+fuel+injection> ;
+    ns64:with <LH+electronic+fuel+injection>,
+        <LH+fuel+injection> ;
+    ns80:with <LH+electronic+fuel+injection>,
+        <LH+fuel+injection> .
+
+<water+pump+belts> <replace> <them> .
+
+<will+great+car> ns10:With <proper+care> .
+
+<your+dealer> <get> <printout> ;
+    ns26:printout <equipment>,
+        <on+equipment>,
+        <on+standard+equipment>,
+        <standard+equipment> .
+
+<your+local+dealer> <get> <printout> ;
+    ns26:printout <equipment>,
+        <on+equipment>,
+        <on+standard+equipment>,
+        <standard+equipment> .
+
+<your+mileage> ns43:depending <depending+level>,
+        <depending+level+of+cooperation> ;
+    ns19:depending <depending+level>,
+        <depending+level+of+cooperation> .
+
+<your+water+pump+belts> <replace> <them> .
+
+<30K+adjustment> ns10:with <jam+nuts> .
+
+<belts> ns16:deteriorate <if+was>,
+        <was> .
+
+<cars> <have> <Nivomat+self+leveling+shocks>,
+        <expensive+Nivomat+self+leveling+shocks>,
+        <very+expensive+Nivomat+self+leveling+shocks> ;
+    ns104:in <back> ;
+    ns49:from <complex+expensive+systems>,
+        <complex+systems>,
+        <expensive+systems>,
+        <major+problems>,
+        <major+problems+including+electrical+engine>,
+        <major+problems+including+engine>,
+        <problems>,
+        <problems+including+electrical+engine>,
+        <problems+including+engine>,
+        <systems> ;
+    ns30:from <major+problems>,
+        <major+problems+including+electrical+engine>,
+        <major+problems+including+engine>,
+        <problems>,
+        <problems+including+electrical+engine>,
+        <problems+including+engine> ;
+    ns69:have <Volvos> ;
+    ns81:in <mix> ;
+    ns27:have <Volvos> ;
+    ns21:in <mix> ;
+    ns38:have <Volvos> ;
+    ns15:in <mix> .
+
+<interference+engine> ns27:bend <chain+slips>,
+        <if+chain+slips> .
+
+<later+revised+version> ns10:with <LH+electronic+fuel+injection> .
+
+<leaks> ns45:for <condition>,
+        <condition+of+rockers+cam>,
+        <varnishing+condition>,
+        <varnishing+condition+of+rockers+cam> ;
+    ns45:inside <valve+cover> .
+
+<multi-link+rear+suspension> ns10:with <spring> .
+
+<notes> ns10:in <front+frame+members> .
+
+<paint+chips> ns10:in <nose> .
+
+<panel> <is> <replaced> .
+
+<this> <be> <great> ;
+    ns10:EXPENSIVE <960> .
+
+<transmission> <is> <EXPENSIVE> ;
+    ns10:in <%2789+740+GLE> .
+
+<valves> <need> <30K+adjustment>,
+        <30K+adjustment+via+adjustment+screws>,
+        <30K+adjustment+via+adjustment+screws+with+jam+nuts>,
+        <30K+adjustment+with+jam+nuts> ;
+    ns27:bend <chain+slips>,
+        <if+chain+slips> .
+
+<1996> ns71:is <SRS> .
+
+<model> ns10:in <your+market> .
+
+<on+standard+equipment> ns10:in <model> .
+
+<sale> ns10:in <my+area> .
+
+<engine> <is> <interference+engine> .
+
+<it> ns29:had <full+nose>,
+        <nose> ;
+    ns29:repainted <bodywork>,
+        <original+bodywork> ;
+    ns92:need <more+servicing>,
+        <servicing> ;
+    <enjoy> <it> ;
+    <gets> <older> ;
+    <has> <If+untouched>,
+        <corner+lamps>,
+        <most>,
+        <most+of+what>,
+        <untouched> ;
+    <is> <installed>,
+        <when+installed> ;
+    <was> <part>,
+        <part+of+cold+weather+package+on+94+95>,
+        <part+of+weather+package+on+94+95> ;
+    ns52:of <cold+weather+package>,
+        <weather+package> ;
+    ns52:on <94+95> .
+
+<car> <about> <history> ;
+    ns96:had <183k> ;
+    <been> <damaged> ;
+    ns67:into <shop> ;
+    <gets> <When+hit>,
+        <hit> ;
+    <had> <183k> ;
+    <has> <lights>,
+        <open+service+campaigns> ;
+    ns86:had <accident> ;
+    <is> <uniform> ;
+    ns74:in <color> ;
+    <substitute> <if+not+available>,
+        <not+available> ;
+    <turn> <signals> ;
+    <was> <ever+totaled>,
+        <if+ever+totaled>,
+        <if+totaled>,
+        <totaled> ;
+    ns27:please <you> .
+
+<you> ns24:got <expensive+work>,
+        <work> ;
+    ns25:ahead <expensive+work>,
+        <work> ;
+    ns25:work <If+they+do>,
+        <they+do> ;
+    ns94:ahead <If+they+do>,
+        <they+do> ;
+    ns46:tell ns55:replaced,
+        <if+have+replaced> ;
+    ns20:for <car> ;
+    <are> <familiar>,
+        <familiar+with> ;
+    ns41:tell ns55:replaced,
+        <if+have+replaced> ;
+    <get> <idle>,
+        <surging+idle> ;
+    <have> <960>,
+        <expensive+repair>,
+        <repair> ;
+    ns55:repair <if+you+want>,
+        <you+want> ;
+    <know> <VIN>,
+        <VIN+for+car> ;
+    <love> <drive>,
+        <to+drive> ;
+    ns58:for <maintenance>,
+        <scheduled+maintenance> ;
+    <see> <leaks> ;
+    <want> <C> ;
+    <watch> <chain+wear> ;
+    ns27:bend <valves> ;
+    ns78:valves <if+it+breaks>,
+        <it+breaks> ;
+    ns27:find <crumbling+insulation>,
+        <insulation> ;
+    ns22:find <crumbling+insulation>,
+        <insulation> .
+
